@@ -7,11 +7,13 @@
 
 # Name of website
 title: PAF 514 - Example Website
-
 # Your name to show in the footer
 author: Sharon Seo
 # Short description of your site
 description: Project to practice web development
+
+# Define site url 
+url: https://github.com/jeyseo/beautiful-jekyll/
 
 # --- List of links in the navigation bar --- #
 
